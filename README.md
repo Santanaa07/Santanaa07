@@ -2,7 +2,7 @@
 ## Hey, I'm Gabriel Santana! 👋
 
 <p align="center">
-  <img width="434px" src="https://github-readme-stats.vercel.app/api?username=Santanaa07&show_icons=true&theme=midnight-purple&hide=prs,contributed)"/>
+  <img width="434px" src="https://github-readme-stats.vercel.app/api?username=Santanaa07&show_icons=true&theme=midnight-purple&hide=prs,contribs)"/>
 </p>
 
 I'm 21 years old and I'm a **Systems Development technician** at **ETEC de Guaianazes** and I'm currently studying **Systems Analysis and Development** at **FATEC de Ferraz de Vasconcelos**.
