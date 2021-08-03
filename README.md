@@ -14,7 +14,4 @@ I'm 21 years old and I'm a **Systems Development technician** at **ETEC de Guaia
 
 ## Reach me out 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santana-pereira/)](https://www.linkedin.com/in/gabriel-santana-pereira/) 
-[![Gmail Badge](https://img.shields.io/badge/-gsantanaa.07@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](gsantanaa.07@gmail.com)
-
-  
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santana-pereira/)](https://www.linkedin.com/in/gabriel-santana-pereira/)
